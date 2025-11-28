@@ -1,0 +1,23 @@
+Cell Markers Associations (CellMarker2.0 & Pangloadb)
+APOE: Macrophages, Microglia, Astrocytes, Oligodendrocyte progenitor cells, Oligodendrocytes, Ependymal cells, Endothelial cells. 
+Pax6: Neurons, Enpendymal cells, Astrocytes, glial progenitor cell
+Vim: Endothelial cells, Ependymal cells, Astrocytes, Macrophages, Microglial cells, radioglial cells
+Cd9: Microglial cell, Stem cell, oligodendrocyte progenitor cells. 
+Pcp4: Neurons, oligodendrocyte progenitor cells, cortical neuron, purkinje cell, diencephelon inhibitory neuron
+Mcmbp: Neurons, endothelial cells, oligodendrocyte progenitor cells, oligodendrocytes, astrocytes, ependymal cells.
+Sox2: Oligodendrocytes, astrocytes, oligodendrocytes progenitor cells, ependymal cells, neural stem cells.
+Neurod6: Excitatory neurons, hippocampus cell
+Reln: Inhibitory neurons, radial glial cells, Martinotti cell, Cajal-Retzius cell
+Gad1: neurons, inhibitory neuron
+Gad2: neurons, inhibitory neuron, GABAergic neuron
+Slc32a1: neurons, inhibitory neurons, GABAergic neurons
+Snap25: neurons, purkinje neurons, excitatory neurons, GABAergic neuron, neural stem cells.
+Dcx: Immature neurons, Neuroblast, intermediate neurons
+Neurod1: neural progenitor cells, late neuroblast, neuroblast, pyramidal cells.
+Tubb3: Neurons, neural cell, neuroblast, type 1 spiral ganglion neuron
+Rbfox3: Interneurons, neurons, type 1 spiral ganglion
+Prox1: Oligodendrocytes, hippocampal cell, dentate granule cell
+Ascl1: Oligodendrocyte progenitor cells, neuron, progenitor cell, astrocyte, 
+Eomes: Neurons, neural progenitor cells, intermediate neurons, neuroblast
+Neurog2: Neurons, late neuroblast
+Foxg1: Neurons
