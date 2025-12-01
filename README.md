@@ -27,5 +27,17 @@ Cell clustering at 0.5 resolution identified 7 clusters of progenitor neurons (b
 These clusters expressed markers of proliferation and development such as Mcmbp, Sox2, Reln, Tubb3,Vim etc. 
 This reveled that dataset consisted of immature proliferating neurons. 
 ![Clusters](Annotated_Cell_Clusters.png)
-![Markers](Cluster_Markers.png)
+![Markers](Cluster_Markers.png) 
+
+## Repository Files
+```
+scRNA_seq_Analysis_Mouse_Brain/
+├── Annotated_Cell_Clusters.png                    # Plot showing annotated cell clusters
+├── Cell Markers Associations.txt            # Text file describing markers associations 
+├── Cluster_Markers.png                      # Violin plots showing expression of markers 
+├── Clusters(0.5res).png                      # Total clusters observed at 0.5 resolution
+├── cluster_markers.csv                      # a csv file of markers expressed in each cluster
+├── Mouse_Brain.Rproj          # RStudio project file
+└── README.md                  # Project documentation
+```
 
