@@ -1,6 +1,11 @@
 # scRNA-Seq Analysis of Mouse Brain Cells Using Seurat
+This analysis was carried out on E18 mouse brain to explore cellular heterogenity during development. The analysis was carried out using Seurat package and distinct cell populations and biomakers were identified known to be involved in neuronal development. 
 
-The goal of this project was to analyze E18 mouse brain tissue and identify cell populations and markers mostly expressed during developmental stages.
+## Objective 
+
+1. Identify cell-type specific biomarkers in E18 mouse brain tissue.
+2. Characterize neural cellular heterogenity during developmental stages.
+
 
 ## Dataset
 Dataset is from 10x genomics platform. The cells from hippocampus, cortex and sub-ventricular zone (SVZ) were sequenced on Illumina HiSeq2500 platform and analyzed using Cell Ranger 2.1.0. 
